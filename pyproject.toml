@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "frappe-lms-mcp"
-version = "0.1.0"
+version = "0.1.1"
 description = "Course delivery, student progress tracking, and training modules."
 readme = "README.md"
 requires-python = ">=3.10"
